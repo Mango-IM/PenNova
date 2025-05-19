@@ -137,11 +137,13 @@ python demo.py
 - 用户体验满意度提升**88%**
 - 支持**16**种不同风格的汉字生成
 - 覆盖**5000+**常用汉字，支持简繁转换
-                                      解决风格杂糅，优化生成效率
+
+<div style="text-align: center;">解决风格杂糅，优化生成效率。</div>
 <div align="center">
   <img src="https://github.com/Mango-IM/PenNova/blob/master/images/innovation5.png?raw=true" alt="成果展示" width="600"/>
 </div>
-                                      结合三种异构数据集构建丰富字库
+
+<div style="text-align: center;">结合三种异构数据集构建丰富字库。</div>                  
 <div align="center">
   <img src="https://github.com/Mango-IM/PenNova/blob/master/images/innovation6.png?raw=true" alt="成果展示" width="600"/>
 </div>
