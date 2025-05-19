@@ -1,7 +1,7 @@
 # 笔韵智枢 — 大数据驱动的智能一体化字体创作引擎
 
 <div align="center">
-  <img src="https://github.com/Mango-IM/PenNova/blob/master/images/innovation7.png?raw=true" alt="笔韵智枢项目概览" width="800"/>
+  <img src="https://github.com/Mango-IM/PenNovaCode/blob/master/images/innovation8.png?raw=true" alt="笔韵智枢项目概览" width="800"/>
 </div>
 
 ## 🏆 第27届中国机器人及人工智能大赛 人工智能创新赛 作品
