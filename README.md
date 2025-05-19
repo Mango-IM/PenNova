@@ -1,7 +1,7 @@
 # 笔韵智枢 — 大数据驱动的智能一体化字体创作引擎
 
 <div align="center">
-  <img src="https://github.com/xrose3159/RhythmsWritting/raw/gh-pages/images/innovation-all.png" alt="笔韵智枢项目概览" width="800"/>
+  <img src="https://github.com/Mango-IM/PenNova/blob/master/images/innovation7.png?raw=true" alt="笔韵智枢项目概览" width="800"/>
 </div>
 
 ## 🏆 第27届中国机器人及人工智能大赛 人工智能创新赛 作品
@@ -27,7 +27,7 @@
 - **灵活的风格迁移**：生成器结合内容与风格特征，生成高度一致且精细化的目标字体，确保设计意图的完美还原。
 
 <div align="center">
-  <img src="https://github.com/xrose3159/RhythmsWritting/raw/gh-pages/images/innovation2.png" alt="技术架构" width="600"/>
+  <img src="https://github.com/Mango-IM/PenNova/blob/master/images/innovation.png?raw=true" alt="技术架构" width="600"/>
 </div>
 
 ### 2. 智能参考字优化推荐系统
@@ -37,7 +37,7 @@
 - **提高生成效果**：通过优化参考字样本的选择，提高目标字体的风格一致性，避免风格不匹配带来的杂糅问题。
 
 <div align="center">
-  <img src="https://github.com/xrose3159/RhythmsWritting/raw/gh-pages/images/innovation2.png" alt="技术架构" width="600"/>
+  <img src="https://github.com/Mango-IM/PenNova/blob/master/images/innovation2.png?raw=true" alt="技术架构" width="600"/>
 </div>
 
 ### 3. 基于深度学习的源字体智能匹配模块
@@ -47,7 +47,7 @@
 - **风格一致性保证**：通过深度匹配与优化，解决风格杂糅问题，确保生成字体的视觉效果和风格统一性。
 
 <div align="center">
-  <img src="https://github.com/xrose3159/RhythmsWritting/raw/gh-pages/images/innovation2.png" alt="技术架构" width="600"/>
+  <img src="https://github.com/Mango-IM/PenNova/blob/master/images/innovation3.png?raw=true" alt="技术架构" width="600"/>
 </div>
 
 ### 4. 自适应扩散模型驱动的字体风格迁移系统
@@ -57,7 +57,7 @@
 - **风格迁移技术**：基于深度学习的风格识别与迁移，实现不同书法风格间的自然转换
 
 <div align="center">
-  <img src="https://github.com/xrose3159/RhythmsWritting/raw/gh-pages/images/innovation2.png" alt="技术架构" width="600"/>
+  <img src="https://github.com/Mango-IM/PenNova/blob/master/images/innovation4.png?raw=true" alt="技术架构" width="600"/>
 </div>
 
 ### 5. 古今字库融合的多样化训练数据集优化方案
@@ -66,9 +66,6 @@
 - **数据集优化与分类**：通过数据清洗、标准化处理以及风格分类，优化训练数据集的质量，提升模型的泛化能力。
 - **增强生成性能**：利用丰富的数据集，提升模型处理复杂字形和非标准化字体的能力，增强对特殊字体风格的生成效果。
 
-<div align="center">
-  <img src="https://github.com/xrose3159/RhythmsWritting/raw/gh-pages/images/innovation2.png" alt="技术架构" width="600"/>
-</div>
 
 ## 应用场景
 
@@ -142,20 +139,13 @@ python demo.py
 - 覆盖**5000+**常用汉字，支持简繁转换
 
 <div align="center">
-  <img src="https://github.com/xrose3159/RhythmsWritting/raw/gh-pages/images/innovation5.png" alt="成果展示" width="600"/>
+  <img src="https://github.com/Mango-IM/PenNova/blob/master/images/innovation5.png?raw=true" alt="成果展示" width="600"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/xrose3159/RhythmsWritting/raw/gh-pages/images/innovation5.png" alt="成果展示" width="600"/>
+  <img src="https://github.com/Mango-IM/PenNova/blob/master/images/innovation6.png?raw=true" alt="成果展示" width="600"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/xrose3159/RhythmsWritting/raw/gh-pages/images/innovation5.png" alt="成果展示" width="600"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/xrose3159/RhythmsWritting/raw/gh-pages/images/innovation5.png" alt="成果展示" width="600"/>
-</div>
 ## 致谢
 
 感谢所有对本项目提供支持和帮助的老师、同学和机构。特别感谢中国机器人及人工智能大赛组委会提供的展示平台。
